@@ -1,0 +1,48 @@
+
+/* Class = "UITabBarItem"; title = "五环"; ObjectID = "CUr-eG-NsC"; */
+"CUr-eG-NsC.title" = "五环";
+
+/* Class = "UINavigationItem"; title = "电阻计算器"; ObjectID = "DEP-9D-81g"; */
+"DEP-9D-81g.title" = "电阻计算器";
+
+/* Class = "UITextView"; text = "提示：间隔最大的为最后一位！"; ObjectID = "FlE-6g-Q1y"; */
+"FlE-6g-Q1y.text" = "提示：间隔最大的为最后一位！";
+
+/* Class = "UITextView"; text = "提示：间隔最大的为最后一位！"; ObjectID = "KHM-9Z-Saa"; */
+"KHM-9Z-Saa.text" = "提示：间隔最大的为最后一位！";
+
+/* Class = "UILabel"; text = "± 0"; ObjectID = "Qau-Wv-rPa"; */
+"Qau-Wv-rPa.text" = "± 0";
+
+/* Class = "UILabel"; text = "± 0"; ObjectID = "ROj-gh-IDw"; */
+"ROj-gh-IDw.text" = "± 0";
+
+/* Class = "UILabel"; text = "0 ppm/℃"; ObjectID = "VYv-91-pnq"; */
+"VYv-91-pnq.text" = "0 ppm/℃";
+
+/* Class = "UINavigationItem"; title = "电阻计算器"; ObjectID = "YuR-x7-BqO"; */
+"YuR-x7-BqO.title" = "电阻计算器";
+
+/* Class = "UITabBarItem"; title = "四环"; ObjectID = "acW-dT-cKf"; */
+"acW-dT-cKf.title" = "四环";
+
+/* Class = "UILabel"; text = "± 0"; ObjectID = "cQG-Rb-Kqo"; */
+"cQG-Rb-Kqo.text" = "± 0";
+
+/* Class = "UILabel"; text = "0Ω"; ObjectID = "dk9-vY-1Da"; */
+"dk9-vY-1Da.text" = "0Ω";
+
+/* Class = "UINavigationItem"; title = "电阻计算器"; ObjectID = "doM-cJ-gfc"; */
+"doM-cJ-gfc.title" = "电阻计算器";
+
+/* Class = "UITabBarItem"; title = "六环"; ObjectID = "gjR-mO-SUw"; */
+"gjR-mO-SUw.title" = "六环";
+
+/* Class = "UILabel"; text = "0Ω"; ObjectID = "mZd-Pq-2NG"; */
+"mZd-Pq-2NG.text" = "0Ω";
+
+/* Class = "UITextView"; text = "提示：间隔最大的为最后一位！"; ObjectID = "uzy-Uh-WhD"; */
+"uzy-Uh-WhD.text" = "提示：间隔最大的为最后一位！";
+
+/* Class = "UILabel"; text = "0Ω"; ObjectID = "xXt-Oj-uhZ"; */
+"xXt-Oj-uhZ.text" = "0Ω";
